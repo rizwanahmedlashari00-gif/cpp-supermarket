@@ -19,4 +19,5 @@ This is a standard C++ console application.
 3. Execute the compiled file in your terminal.
 
 ## 📸 Output Preview
-*(Upload a screenshot of your terminal running the admin login or receipt generation here)*
+<img width="674" height="552" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/cce2c64d-0163-403d-aead-2b918fc38158" />
+
