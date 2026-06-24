@@ -18,4 +18,5 @@ This is a standard C++ console application.
 2. Compile the source code using any standard C++ compiler (e.g., `g++ main.cpp -o pos_system`).
 3. Execute the compiled file in your terminal.
 
-*
+## 📸 Output Preview
+*(Upload a screenshot of your terminal running the admin login or receipt generation here)*
